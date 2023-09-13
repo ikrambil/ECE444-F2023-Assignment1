@@ -26,7 +26,3 @@ class utils:
         # Convery the input to base 8
         base_8 = oct(int(number))
         return (base_2, base_8)
-
-a, b = utils.formatter(789)
-
-print(a,b)
