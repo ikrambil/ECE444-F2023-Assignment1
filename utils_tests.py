@@ -28,7 +28,4 @@ class TestUtils(unittest.TestCase):
     def test_formatter4(self):
         self.assertEqual(utils.formatter(543.00), ('0b1000011111', '0o1037'))
 
-        
-
-
 unittest.main()
