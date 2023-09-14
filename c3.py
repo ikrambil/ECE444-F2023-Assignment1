@@ -1,4 +1,0 @@
-"""
-An empty file
-
-"""
